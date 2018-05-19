@@ -17,9 +17,37 @@ body{
     border-radius: 0;
     color: white;
     padding: 8%;
+    margin: 0;
 }
 
-#main-banner .display-4,.lead,p{
-    background-color: dimgray; 
+#main-banner .display-4,.lead{
+    background-color: #343a40;
     text-align: center;
 }
+
+.content-container{
+    background-color: beige;
+    height: auto;
+}
+
+.content{
+    width: 80%;
+    margin: 0 auto;
+    padding: 2%;
+}
+
+.contact-container{
+    background-color: #343a40;
+    height: auto;
+}
+
+.contact{
+    width: 20%;
+    margin: 0 auto;
+    padding: 2%;
+    color: white;
+    min-width: 300px;
+    text-decoration: none;
+}
+
+
