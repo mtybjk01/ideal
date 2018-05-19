@@ -1,5 +1,5 @@
 body{
-    height: 1200px;
+    height: auto;
 }
 
 #navigasyon{
@@ -42,12 +42,28 @@ body{
 }
 
 .contact{
-    width: 20%;
+    width: 45%;
     margin: 0 auto;
     padding: 2%;
     color: white;
-    min-width: 300px;
+    min-width: 320px;
     text-decoration: none;
+    overflow: hidden;
 }
+
+.face-logo{
+    float: right;
+    font-size: 3em;
+    margin-bottom: 2%;
+}
+
+#phone{
+    float: left;
+} 
+
+#email{
+    float: left;
+} 
+
 
 
