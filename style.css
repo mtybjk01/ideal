@@ -1,0 +1,25 @@
+body{
+    height: 1200px;
+}
+
+#navigasyon{
+    padding: 1% 8% 1% 8%;
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} 
+
+#main-banner{
+    background-image: url("img/bigben.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center center; 
+    height: 500px;  
+    border-radius: 0;
+    color: white;
+    padding: 8%;
+}
+
+#main-banner .display-4,.lead,p{
+    background-color: dimgray; 
+    text-align: center;
+}
