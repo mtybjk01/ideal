@@ -36,6 +36,10 @@ body{
     padding: 2%;
 }
 
+.content h6{
+    margin-top:1%;
+}
+
 .contact-container{
     background-color: #343a40;
     height: auto;
@@ -49,21 +53,14 @@ body{
     min-width: 320px;
     text-decoration: none;
     overflow: hidden;
+    text-align: center;
 }
 
 .face-logo{
-    float: right;
     font-size: 3em;
-    margin-bottom: 2%;
 }
 
-#phone{
-    float: left;
-} 
 
-#email{
-    float: left;
-} 
 
 
 
